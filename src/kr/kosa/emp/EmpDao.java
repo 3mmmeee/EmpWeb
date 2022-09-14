@@ -26,7 +26,7 @@ public class EmpDao {
 		   con = DriverManager.getConnection(url, id, pw);
 		   System.out.println(con);
 	   }catch(Exception e) {
-//6
+//6qwe
 	   }finally {
 		   
 	   }
